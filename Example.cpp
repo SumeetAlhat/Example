@@ -12,3 +12,11 @@ int main()
     std::cout << "Reset";
 }
 
+void method1() {
+    std::cout << "method 1 \n";
+}
+
+void method2() {
+    std::cout << "method 2 \n";
+}
+
