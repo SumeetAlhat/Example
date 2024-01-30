@@ -19,4 +19,6 @@ void method1() {
 void method2() {
     std::cout << "method 2 \n";
 }
-
+void method3() {
+    std::cout << "method 2 \n";
+}
