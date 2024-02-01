@@ -31,6 +31,8 @@ void method5() {
 void method6() {
     std::cout << "method 2 \n";
 }
-void method7() {
+void method8() {
+    std::cout << "method 2 \n";
+}
     std::cout << "method 2 \n";
 }
