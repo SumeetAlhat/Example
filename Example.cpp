@@ -25,3 +25,6 @@ void method3() {
 void method4() {
     std::cout << "method 2 \n";
 }
+void method5() {
+    std::cout << "method 2 \n";
+}
