@@ -40,5 +40,8 @@ void method9() {
 void method10() {
     std::cout << "method 2 \n";
 }
+void method11() {
+    std::cout << "method 2 \n";
+}
     std::cout << "method 2 \n";
 }
